@@ -17,7 +17,7 @@
 			</div>
 			<div class="header-thumb"><img src="assets/img/home-header-img.webp" alt=""></div>
 			<nav class="header-nav">
-				<a href="index.html" class="active">Home</a>
+				<a href="index.php" class="active">Home</a>
 				<a href="instructions.html">Instructions</a>
 				<a href="services-and-fees.html">Pricing</a>
 				<a href="#">Directions</a>
