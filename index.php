@@ -177,7 +177,7 @@
 					</div>
 				</div>
 				<div class="footer-col">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.7896004091613!2d-73.86394018459131!3d40.83258487931901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f4c171330f23%3A0xad4dae30ed943678!2sNYCDocs%20-%20Primary%20Care%20Doctors!5e0!3m2!1sen!2sbd!4v1615795074446!5m2!1sen!2sbd" width="640" height="335" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3017.0247977017516!2d-73.877362!3d40.87133!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf8378c493c505654!2sSquare%20Medical%20Care%20-%20Primary%20Care%20Doctors!5e0!3m2!1sen!2sbd!4v1615868586626!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 					<div class="footer-address-box">
 						<p>
 							<strong>Square Medical Care</strong> <br>
@@ -196,7 +196,7 @@
 			</div>
 		</div>
 		<div class="copyright">
-			<div class="footer-container">Powered by <a href="http://www.nycdocs.com" target="_blank">NYCDocs</a> & <a href="http://www.squaremedical.org">Square Medical</a> Care ©All rights reservd.</div>
+			<div class="footer-container">Powered by <a href="http://www.nycdocs.com" target="_blank">NYCDocs</a> & <a href="http://www.squaremedical.org">Square Medical</a> Care © All rights reservd.</div>
 		</div>
 	</footer>
 	<script src="assets/js/jquery-1.12.4.min.js"></script>
