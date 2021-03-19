@@ -308,6 +308,11 @@ a:hover {
     max-width: 120px;
 }
 
+.logo img {
+    height: 60px;
+    width: 116px;
+}
+
 .main-nav a:not(:first-child) {
     margin-left: 35px;
 }
@@ -709,6 +714,7 @@ a:hover {
     }
 }
 
+
 @media screen and (max-width: 767px) {
     .header .main-nav a {
         margin-left: 0px;
@@ -791,5 +797,20 @@ a:hover {
 
     .faq-question {
         font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .hero {
+        padding-top: 75px;
+        height: 100vh;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .media-wrap {
+        text-align: center;
     }
 }
